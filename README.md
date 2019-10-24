@@ -1,2 +1,4 @@
 # console-app.java
-My first repository on Github
+a program that regurgitates input back to the user :smile:
+
+first repository for me and first project for coding club :clap: :clap:
